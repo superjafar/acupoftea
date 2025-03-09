@@ -3,7 +3,7 @@
   ![image_2025-03-09_22-00-58](https://github.com/user-attachments/assets/8601ac3c-6a13-43e0-87b1-62b0848bb6e4)
   <hr>
   
-  ![License](https://img.shields.io/badge/MIT-LICENCE-orange?style=flat-square) ![PHP](https://img.shields.io/badge/PHP-8.x.x-lightblue?style=flat-square) ![Version](https://img.shields.io/badge/VERSION-1.0.0-lightgreen?style=flat-square)
+  ![License](https://img.shields.io/badge/LICENCE-MIT-orange?style=flat-square) ![PHP](https://img.shields.io/badge/PHP-8.x.x-777BB4?style=flat-square) ![Version](https://img.shields.io/badge/VERSION-1.0.0-lightgreen?style=flat-square)
 </div>
 
 > [!WARNING]
