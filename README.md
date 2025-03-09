@@ -24,15 +24,15 @@
 
 <pre>
   acup@oftea:~$ Bypass Features
-  - Bypass LiteSpeed.
-  - Bypass 403 Forbidden.
-  - Bypass 404 Not Found.
-  - Bypass 500.
+  - Bypass LiteSpeed
+  - Bypass 403 Forbidden
+  - Bypass 404 Not Found
+  - Bypass 500
   
   acup@oftea:~$ Function Features
-  - WordPress Add Admin User.
-  - Mailer Test.
-  - It will be updated soon.
+  - WordPress Add Admin User
+  - Mailer Test
+  - It will be updated soon
 
   acup@oftea:~$ Common Features
   - Add File
