@@ -558,7 +558,7 @@ function win() {
                                     foreach ($cups as $id => $pat) {
                                         if ($pat == '' && $id == 0) {
                                 ?>
-                                <a href="?cup=<?php tea('/') ?>">/</a>
+                                <a href="?cup=<?= tea('/') ?>">/</a>
                                 <?php } if ($pat == '') continue; ?>
 
                                 <a href="?cup=<?php for ($i = 0; $i <= $id; $i++) { echo tea("$cups[$i]"); if ($i != $id) echo tea("/"); } ?>"><?= $pat ?></a>
