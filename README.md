@@ -23,18 +23,35 @@
 > A CUP OF TEA is a file manager or webshell created with great dedication. It comes with several features, with the most notable ones being 403 bypass and 404 file not found bypass. A CUP OF TEA has been tested on Laragon PHP 8.1.10. Its functionality is similar to other webshells, as it is inspired by several existing webshells.
 
 <pre>
-  acup@oftea:~$ Bypass Feature
+  acup@oftea:~$ Bypass Features
   - Bypass LiteSpeed.
   - Bypass 403 Forbidden.
   - Bypass 404 Not Found.
   - Bypass 500.
   
-  acup@oftea:~$ Function Feature
+  acup@oftea:~$ Function Features
   - WordPress Add Admin User.
   - Mailer Test.
   - It will be updated soon.
+
+  acup@oftea:~$ Common Features
+  - Add File
+  - Add Folder
+  - Change Date of File & Folder
+  - Change Permission of File & Folder
+  - Delete File & Folder
+  - Download File
+  - Edit File
+  - Rename File & Folder
+  - View File
+  - Upload Multiple Files
 </pre>
 
 | PREVIEW |
 |---------|
 | ![image](https://github.com/user-attachments/assets/d6a46965-b399-4039-a151-811290fd1adc) |
+
+### Reference
+- [Gecko Webshell](https://github.com/MadExploits/Gecko)
+- [IndoSec Shell](https://github.com/holiq/IndoSec-sHell)
+- [Marijuana Webshell](https://github.com/0x5a455553/MARIJUANA)
