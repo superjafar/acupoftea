@@ -519,7 +519,7 @@ function win() {
     <body class="bg-light">
         <div class="container-fluid py-3 p-5 mt-3">
             <div class="row justify-content-between align-items-center py-2">
-                <div class="col-md-6">
+                <div class="col-md-auto">
                     <table class="table table-sm table-borderless table-light">
                         <tr>
                             <td style="width: 7%;">&#83;&#121;&#115;&#116;&#101;&#109;</td>
@@ -569,7 +569,7 @@ function win() {
                         </tr>
                     </table>
                 </div>
-                <div class="col-md-6 mt-auto mb-3">
+                <div class="col-md-auto mt-auto mb-3">
                     <div class="row justify-content-end">
                         <div class="col-md-auto">
                             <table class="table-borderless">
